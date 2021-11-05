@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremiahberndt&left_color=green&right_color=red)
 
-[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
 const jeremiah = {
