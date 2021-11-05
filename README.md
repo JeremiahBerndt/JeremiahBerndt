@@ -1,9 +1,7 @@
 ### Welcome! 👋 You're on my GitHub profile!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremiahberndt&left_color=green&right_color=red)
-
-[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="right">
 ```javascript
 const jeremiah = {
   pronouns: 'he/him',
@@ -15,6 +13,8 @@ const jeremiah = {
   currentlyLearning: 'docker', 'postgres', 'CI/CD'
 }
 ```
+</div>
+[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Languages, Frameworks, and Tools (Oh my):
 <div align="center">
