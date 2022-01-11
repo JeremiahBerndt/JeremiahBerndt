@@ -9,7 +9,7 @@ const jeremiah = {
   location: 'denver',
   degree: 'B.S. Audio Engineering',
   previousWork: 'Producer', 'Social Worker',
-  interests: ['hip hop', 'yoga', 'fine cheeses', 'algorithmic trading'],
+  interests: ['hip hop', 'yoga', 'fine cheeses', 'algorithmic trading']
 }
 ```
 [![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
