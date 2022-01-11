@@ -31,9 +31,6 @@ const jeremiah = {
     <a href="https://sass-lang.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
   </a>
-  <a href="https://circleci.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/fcbc9e610e8fa71d980f8817cd2c5d6611af31515ee1ec9f018d95f13930b1be/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636972636c6563692f636972636c6563692d69636f6e2e737667" alt="circleci" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" style="max-width: 100%;">
-  </a>
   <a href="https://www.cypress.io" rel="nofollow">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width: 100%;">
   </a>
