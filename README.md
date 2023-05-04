@@ -1,7 +1,5 @@
 ### Welcome! 👋 You're on my GitHub profile!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremiahberndt&left_color=green&right_color=red)
-
 ```javascript
 const jeremiah = {
   pronouns: 'he/him',
