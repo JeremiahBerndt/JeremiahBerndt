@@ -10,7 +10,6 @@ const jeremiah = {
   interests: ['zen', 'yoga', 'fine cheeses', 'algorithmic trading']
 }
 ```
-[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahberndt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Languages, Frameworks, and Tools (Oh my):
 <div align="center">
